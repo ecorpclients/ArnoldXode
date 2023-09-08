@@ -1,0 +1,35 @@
+.HeaderPage{
+    position: absolute;
+    width: 98%;
+    left: 1%;
+    margin-top: 0.2rem;
+    height: 10%;
+    background: rgb(26, 25, 25);
+    display: inline-flex;
+}
+
+.HomePageDiv{
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    height: auto;
+    bottom: 0;
+    background: transparent;
+    display: block;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.MenuDiv{
+    position: absolute;
+    width: 50%;
+    top: 11%;
+    height: auto;
+    left: 1%;
+    bottom: 1%;
+    background: rgb(22, 21, 21);
+    display: none;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+

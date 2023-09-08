@@ -1,0 +1,48 @@
+.MenuIcon{
+    position: absolute;
+    width: 8%;
+    height: auto;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+    margin-bottom: 1rem;
+    left: 0;
+}
+
+.MenuCloseIcon{
+    position: absolute;
+    width: 8%;
+    height: auto;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+    margin-bottom: 1rem;
+    left: 0;
+    display: none;
+}
+.ShoppingIcon{
+    position: absolute;
+    width: 8%;
+    height: auto;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+    margin-bottom: 1rem;
+    right: 3%;
+}
+
+.AppName{
+    position: relative;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 22px;
+}
+
+.BackIcon{
+    position: absolute;
+    width: 6%;
+    height: auto;
+    margin-top: 1.3rem;
+    margin-left: 0.5rem;
+    margin-bottom: 1rem;
+    left: 0;
+}
