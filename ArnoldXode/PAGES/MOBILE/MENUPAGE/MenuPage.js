@@ -50,4 +50,10 @@ const MENUDATA=`
     
 </div>
 
+<div class='MenuTitles'>
+
+    <h1 class='MenuTitles1'>About Xode</h1>
+    
+</div>
+
 `;

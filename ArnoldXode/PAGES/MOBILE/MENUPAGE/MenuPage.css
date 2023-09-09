@@ -21,4 +21,6 @@
     padding: 3%;
     color: gainsboro;
     font-style: italic;
+    top: 0;
+    bottom: 0;
 }
