@@ -1,6 +1,5 @@
 HOMEPAGEDATADISPLAY=()=>{
 
-   
   //SHUFFLE THE DATA
   const shuffleArray = (array) => {
 
